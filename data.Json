@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "fname": "hoda",
+        "lname": "sayed",
+        "age": 23,
+        "city": "cairo"
+    },
+    {
+        "id": 2,
+        "fname": "jody",
+        "lname": "hady",
+        "age": 30,
+        "city": "6octo"
+    },
+    {
+        "id": 3,
+        "fname": "suliman",
+        "lname": "slim",
+        "age": 15,
+        "city": "giza"
+    },
+    {
+        "id": 5,
+        "fname": "salwa",
+        "lname": "mahmoud",
+        "age": 60,
+        "city": "madi"
+    },
+    {
+        "id": 7,
+        "fname": "manar",
+        "lname": "walid",
+        "age": 12,
+        "city": "fayoum"
+    }
+]
